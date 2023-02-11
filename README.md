@@ -1,4 +1,4 @@
-# responsividade - <a href="paulovarrone.github.io/responsivo" target="_blank">Acesse aqui.</a>
+# responsividade - <a href="https://paulovarrone.github.io/responsivo/" target="_blank">Acesse aqui.</a>
 
 ![image](https://user-images.githubusercontent.com/100317569/216343158-832b90b5-8476-4c6a-b3f5-e890530732d9.png)
 
